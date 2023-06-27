@@ -1,0 +1,8 @@
+a.footerCls{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+a.footerCls:hover{
+    color: #c9a58b;
+}

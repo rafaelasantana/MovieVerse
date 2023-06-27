@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  input[type=text], textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, textarea:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  input[type=submit]:hover {
+    opacity: 1;
+  }

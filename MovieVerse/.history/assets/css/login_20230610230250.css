@@ -1,0 +1,26 @@
+.btn-login{
+  --bs-btn-color:#FFEAD2; 
+  background-color:#8294C4;
+  text-decoration: none;
+  --bs-btn-border-color:#8294C4;
+  --bs-btn-hover-color:#FFEAD2;
+  --bs-btn-hover-bg:#DBDFEA;
+  --bs-btn-hover-border-color:#DBDFEA;
+  --bs-btn-focus-shadow-rgb:0,0,0;
+  --bs-btn-active-color:#FFEAD2;
+  --bs-btn-active-bg:#8294C4;
+  --bs-btn-active-border-color:#8294C4;
+  --bs-btn-active-shadow:inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color:#DBDFEA;
+  --bs-btn-disabled-bg:transparent;
+  --bs-btn-disabled-border-color:#DBDFEA;
+  --bs-gradient:none;
+  }
+
+.text{
+  text-align: center;
+}
+
+.error {
+  color: red;
+}

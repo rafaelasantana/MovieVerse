@@ -1,0 +1,7 @@
+.navbar-text {
+    color: #FFEAD2;
+}
+
+.navbar-text .active{
+    color: #DBDFEA;
+}
